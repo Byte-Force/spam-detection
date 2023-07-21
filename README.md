@@ -4,9 +4,9 @@ This is a repo for investigating on Spam dectection for the project **Campus Con
 
 ## Development Progress:
 
-- [ ] Create a model for spam detection (First model as the baseline, will probably be in Jupyter Notebook) 
-- [ ] Finding the Best Model for Spam Detection with different Data Sets
-- [ ] Fine tune the model with our own data set (Still thinking about ways to generate training dataset)
+- [x] Create a model for spam detection (First model as the baseline, will probably be in Jupyter Notebook) 
+- [x] Finding the Best Model for Spam Detection with different Data Sets
+- [x] Fine tune the model with our own data set 
 - [ ] Create a Node.js API for the model
 
 
